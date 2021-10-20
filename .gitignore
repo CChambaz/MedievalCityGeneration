@@ -6,6 +6,27 @@ __pycache__/
 # C extensions
 *.so
 
+# Unnecessary folders and files
+.idea/
+Files/Maps/NodeMap/AfterWaterCheck/
+Files/Maps/NodeMap/BeforeWaterCheck/
+Files/Maps/RoadMaps/Backup*/
+ResultImage/ExportedMap-16/
+ResultImage/*.png
+ResultImage/RoadTest/
+ResultImage/ExportedMap64-*/*.png
+ResultImage/ExportedMap64-*/BuildingPlacement/
+ResultImage/ExportedMap64-*/Calculation1/
+ResultImage/ExportedMap64-*/DistrictDefinition/
+ResultImage/ExportedMap64-*/NodeOld/
+ResultImage/ExportedMap64-*/Settings*/
+ResultImage/ExportedMap64-*/WaterCoastOld/
+ResultImage/ExportedMap64-*/RP/H/
+ResultImage/ExportedMap64-*/RP/W/
+ResultImage/ExportedMap64-*/RP/Test*/
+ResultImage/ExportedMap64-*/RP/DistrictDefinition/
+ResultImage/ExportedMap64-*/RP/BeforeTest/
+
 # Distribution / packaging
 .Python
 build/
