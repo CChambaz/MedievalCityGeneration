@@ -1,0 +1,7 @@
+{
+  "heightWeight": 0.5,
+  "waterWeight": 0.75,
+  "variationWeight": 0.2,
+  "minBuildableArea": 0.6,
+  "amountOfPointToKeep": 200
+}
